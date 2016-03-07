@@ -1,0 +1,1571 @@
+2016-01-13 14:43:26 Error: [MissingActionException] Action AppController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index',
+)
+Request URL: /cake/app/
+Stack Trace:
+#0 /home/manuel/www/cake/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/manuel/www/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /home/manuel/www/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /home/manuel/www/cake/app/index.php(17): require('/home/manuel/ww...')
+#4 {main}
+2016-01-13 14:49:33 Error: [MissingActionException] Action PostController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostController',
+  'action' => 'index',
+)
+Request URL: /cake/post
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#2 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-01-13 14:50:42 Error: [MissingActionException] Action PostController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostController',
+  'action' => 'index',
+)
+Request URL: /cake/post
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#2 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-01-13 14:50:43 Error: [MissingActionException] Action PostController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostController',
+  'action' => 'index',
+)
+Request URL: /cake/post
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#2 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-01-13 14:50:44 Error: [MissingActionException] Action PostController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostController',
+  'action' => 'index',
+)
+Request URL: /cake/post
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#2 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-01-13 14:50:44 Error: [MissingActionException] Action PostController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostController',
+  'action' => 'index',
+)
+Request URL: /cake/post
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#2 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-01-13 14:51:37 Error: [MissingActionException] Action PostController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostController',
+  'action' => 'index',
+)
+Request URL: /cake/post
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#2 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-01-13 14:51:41 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-13 14:54:48 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-13 14:54:52 Error: [MissingActionException] Action PostController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostController',
+  'action' => 'index',
+)
+Request URL: /cake/post
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#2 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-01-13 14:54:56 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-13 14:56:33 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-13 14:59:02 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-13 15:00:01 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-13 15:00:04 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /cake/post
+Stack Trace:
+#0 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-13 15:00:15 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 10:32:33 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 10:33:48 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 10:36:01 Error: Fatal Error (4): syntax error, unexpected 'output' (T_STRING) in [/home/manuel/www/cake/View/Posts/index.ctp, line 2]
+2016-01-15 10:36:01 Error: [FatalErrorException] syntax error, unexpected 'output' (T_STRING)
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 2, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 2, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 10:36:17 Error: Fatal Error (4): syntax error, unexpected end of file in [/home/manuel/www/cake/View/Posts/index.ctp, line 3]
+2016-01-15 10:36:17 Error: [FatalErrorException] syntax error, unexpected end of file
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 3, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 3, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 10:38:34 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/home/manuel/www/cake/View/Posts/index.ctp, line 9]
+2016-01-15 10:38:34 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 9, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 9, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 10:38:51 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/home/manuel/www/cake/View/Posts/index.ctp, line 10]
+2016-01-15 10:38:51 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 10, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 10, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 10:40:26 Error: Fatal Error (4): syntax error, unexpected '<' in [/home/manuel/www/cake/View/Posts/index.ctp, line 3]
+2016-01-15 10:40:26 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 3, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 3, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 10:40:38 Error: [MissingActionException] Action PostsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'view',
+)
+Request URL: /cake/posts/view/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-01-15 10:43:06 Error: [MissingViewException] View file "Posts/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/view.ctp',
+)
+Request URL: /cake/posts/view/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 10:43:15 Error: [MissingViewException] View file "Posts/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/view.ctp',
+)
+Request URL: /cake/posts/view/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 10:43:19 Error: [MissingViewException] View file "Posts/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/view.ctp',
+)
+Request URL: /cake/posts/view/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:00:50 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(PostsController))
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:02:15 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(PostsController))
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:02:16 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(PostsController))
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:02:16 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(PostsController))
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:02:16 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(PostsController))
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:02:57 Error: [MissingHelperException] Helper class FlashHelper could not be found.
+Exception Attributes: array (
+  'class' => 'FlashHelper',
+  'plugin' => false,
+)
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(897): HelperCollection->load('Flash', Array)
+#1 /home/manuel/www/lib/Cake/View/View.php(354): View->loadHelpers()
+#2 /home/manuel/www/lib/Cake/Controller/Controller.php(1247): View->__construct(Object(PostsController))
+#3 /home/manuel/www/lib/Cake/Controller/Controller.php(946): Controller->_getViewObject()
+#4 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#5 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-01-15 11:03:33 Error: [MissingHelperException] Helper class FlashHelper could not be found.
+Exception Attributes: array (
+  'class' => 'FlashHelper',
+  'plugin' => false,
+)
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(897): HelperCollection->load('Flash', Array)
+#1 /home/manuel/www/lib/Cake/View/View.php(354): View->loadHelpers()
+#2 /home/manuel/www/lib/Cake/Controller/Controller.php(1247): View->__construct(Object(PostsController))
+#3 /home/manuel/www/lib/Cake/Controller/Controller.php(946): Controller->_getViewObject()
+#4 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#5 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-01-15 11:04:25 Error: Fatal Error (1): Call to undefined method FlashComponent::success() in [/home/manuel/www/cake/Controller/PostsController.php, line 26]
+2016-01-15 11:04:25 Error: [FatalErrorException] Call to undefined method FlashComponent::success()
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:10:15 Error: Fatal Error (1): Call to undefined method FlashComponent::error() in [/home/manuel/www/cake/Controller/PostsController.php, line 29]
+2016-01-15 11:10:15 Error: [FatalErrorException] Call to undefined method FlashComponent::error()
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 29, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 29, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:10:46 Error: Fatal Error (1): Call to undefined method FlashComponent::error() in [/home/manuel/www/cake/Controller/PostsController.php, line 29]
+2016-01-15 11:10:46 Error: [FatalErrorException] Call to undefined method FlashComponent::error()
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 29, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 29, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:13:14 Error: Fatal Error (1): Call to undefined method FlashComponent::error() in [/home/manuel/www/cake/Controller/PostsController.php, line 29]
+2016-01-15 11:13:14 Error: [FatalErrorException] Call to undefined method FlashComponent::error()
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 29, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 29, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:15:51 Error: Fatal Error (1): Call to undefined method FlashComponent::success() in [/home/manuel/www/cake/Controller/PostsController.php, line 26]
+2016-01-15 11:15:51 Error: [FatalErrorException] Call to undefined method FlashComponent::success()
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:16:21 Error: Fatal Error (1): Call to undefined method FlashComponent::success() in [/home/manuel/www/cake/Controller/PostsController.php, line 26]
+2016-01-15 11:16:21 Error: [FatalErrorException] Call to undefined method FlashComponent::success()
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:17:00 Error: Fatal Error (1): Call to undefined method FlashComponent::success() in [/home/manuel/www/cake/Controller/PostsController.php, line 26]
+2016-01-15 11:17:00 Error: [FatalErrorException] Call to undefined method FlashComponent::success()
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:17:11 Error: Fatal Error (1): Call to undefined method FlashComponent::success() in [/home/manuel/www/cake/Controller/PostsController.php, line 26]
+2016-01-15 11:17:11 Error: [FatalErrorException] Call to undefined method FlashComponent::success()
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 26, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:26:56 Error: [MissingViewException] View file "Posts/edit.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/edit.ctp',
+)
+Request URL: /cake/posts/edit/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:27:55 Error: [NotFoundException] Invalid post
+Request URL: /cake/posts/edit/edit
+Stack Trace:
+#0 [internal function]: PostsController->edit('edit')
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:28:21 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/home/manuel/www/cake/View/Posts/view.ctp, line 8]
+2016-01-15 11:28:21 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /cake/posts/view/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:28:48 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/home/manuel/www/cake/View/Posts/view.ctp, line 8]
+2016-01-15 11:28:48 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /cake/posts/view/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:28:51 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/home/manuel/www/cake/View/Posts/view.ctp, line 8]
+2016-01-15 11:28:51 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /cake/posts/view/2
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:29:16 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/home/manuel/www/cake/View/Posts/view.ctp, line 8]
+2016-01-15 11:29:16 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /cake/posts/view/2
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:29:19 Error: [NotFoundException] Invalid post
+Request URL: /cake/posts/view
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:29:23 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/home/manuel/www/cake/View/Posts/view.ctp, line 8]
+2016-01-15 11:29:23 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /cake/posts/view/2
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 8, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:29:41 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/home/manuel/www/cake/View/Posts/view.ctp, line 7]
+2016-01-15 11:29:41 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /cake/posts/view/2
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 7, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 7, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:29:45 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/home/manuel/www/cake/View/Posts/view.ctp, line 7]
+2016-01-15 11:29:45 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /cake/posts/view/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 7, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 7, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 11:30:22 Error: [MissingViewException] View file "Posts/edit.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/edit.ctp',
+)
+Request URL: /cake/posts/edit/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:37:13 Error: [MethodNotAllowedException] Method Not Allowed
+Request URL: /cake/posts/delete/4
+Stack Trace:
+#0 [internal function]: PostsController->delete('4')
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 11:37:29 Error: [MethodNotAllowedException] Method Not Allowed
+Request URL: /cake/posts/delete/4
+Stack Trace:
+#0 [internal function]: PostsController->delete('4')
+#1 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/manuel/www/cake/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-01-15 12:45:36 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [/home/manuel/www/cake/Controller/PostsController.php, line 45]
+2016-01-15 12:45:36 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /cake/posts/edit/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 45, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 45, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 12:45:56 Error: Fatal Error (1): Call to undefined method SessionComponent::Flash() in [/home/manuel/www/cake/Controller/PostsController.php, line 45]
+2016-01-15 12:45:56 Error: [FatalErrorException] Call to undefined method SessionComponent::Flash()
+Request URL: /cake/posts/edit/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 45, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 45, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 12:46:33 Error: Fatal Error (1): Call to undefined method SessionComponent::Flash() in [/home/manuel/www/cake/Controller/PostsController.php, line 45]
+2016-01-15 12:46:33 Error: [FatalErrorException] Call to undefined method SessionComponent::Flash()
+Request URL: /cake/posts/edit/1
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/manuel/ww...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/manuel/ww...', 45, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/manuel/ww...', 45, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 13:00:51 Error: Fatal Error (4): syntax error, unexpected ';' in [/home/manuel/www/cake/Controller/PostsController.php, line 64]
+2016-01-15 13:00:51 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 64, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 64, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 13:01:08 Error: Fatal Error (4): syntax error, unexpected ')' in [/home/manuel/www/cake/Controller/PostsController.php, line 65]
+2016-01-15 13:01:08 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 65)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 65, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 65, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 13:01:09 Error: Fatal Error (4): syntax error, unexpected ')' in [/home/manuel/www/cake/Controller/PostsController.php, line 65]
+2016-01-15 13:01:09 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /cake/posts
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 65)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 65, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 65, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 13:05:48 Error: Fatal Error (1): Call to a member function error() on a non-object in [/home/manuel/www/cake/Controller/PostsController.php, line 29]
+2016-01-15 13:05:48 Error: [FatalErrorException] Call to a member function error() on a non-object
+Request URL: /cake/posts/add
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/manuel/ww...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/manuel/ww...', 29, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/manuel/ww...', 29, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 13:35:17 Error: Fatal Error (4): syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in [/home/manuel/www/cake/Controller/PostsController.php, line 67]
+2016-01-15 13:35:17 Error: [FatalErrorException] syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION)
+Request URL: /cake/posts/view/4
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 67)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 67, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 67, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 13:35:22 Error: Fatal Error (4): syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in [/home/manuel/www/cake/Controller/PostsController.php, line 67]
+2016-01-15 13:35:22 Error: [FatalErrorException] syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION)
+Request URL: /cake/posts/view/4
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 67)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 67, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 67, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-15 13:35:29 Error: Fatal Error (4): syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in [/home/manuel/www/cake/Controller/PostsController.php, line 67]
+2016-01-15 13:35:29 Error: [FatalErrorException] syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION)
+Request URL: /cake/posts/view/4
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/manuel/ww...', 67)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/manuel/ww...', 67, Array)
+#2 /home/manuel/www/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/manuel/ww...', 67, Array)
+#3 /home/manuel/www/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-02-12 12:00:58 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[42000] [1049] Unknown database \'comenzando\'',
+  'enabled' => true,
+)
+Request URL: /proyecto/
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /home/manuel/www/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/manuel/www/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#3 /home/manuel/www/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /home/manuel/www/lib/Cake/Model/Model.php(3644): Model->setSource('posts')
+#5 /home/manuel/www/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#6 /home/manuel/www/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#7 /home/manuel/www/proyecto/Controller/PostsController.php(7): Model->find('all')
+#8 [internal function]: PostsController->index()
+#9 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-02-12 12:01:22 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[42000] [1049] Unknown database \'comenzando\'',
+  'enabled' => true,
+)
+Request URL: /proyecto/
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /home/manuel/www/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/manuel/www/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#3 /home/manuel/www/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /home/manuel/www/lib/Cake/Model/Model.php(3644): Model->setSource('posts')
+#5 /home/manuel/www/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#6 /home/manuel/www/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#7 /home/manuel/www/proyecto/Controller/PostsController.php(7): Model->find('all')
+#8 [internal function]: PostsController->index()
+#9 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-02-12 12:01:56 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /proyecto/
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Model/Model.php(3644): Model->setSource('posts')
+#1 /home/manuel/www/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#2 /home/manuel/www/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#3 /home/manuel/www/proyecto/Controller/PostsController.php(7): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-02-12 12:01:58 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /proyecto/
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Model/Model.php(3644): Model->setSource('posts')
+#1 /home/manuel/www/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#2 /home/manuel/www/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#3 /home/manuel/www/proyecto/Controller/PostsController.php(7): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-02-12 12:03:07 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /proyecto/
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Model/Model.php(3644): Model->setSource('posts')
+#1 /home/manuel/www/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#2 /home/manuel/www/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#3 /home/manuel/www/proyecto/Controller/PostsController.php(7): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-02-12 12:03:09 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /proyecto/
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Model/Model.php(3644): Model->setSource('posts')
+#1 /home/manuel/www/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#2 /home/manuel/www/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#3 /home/manuel/www/proyecto/Controller/PostsController.php(7): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-02-12 12:03:09 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /proyecto/
+Stack Trace:
+#0 /home/manuel/www/lib/Cake/Model/Model.php(3644): Model->setSource('posts')
+#1 /home/manuel/www/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#2 /home/manuel/www/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#3 /home/manuel/www/proyecto/Controller/PostsController.php(7): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /home/manuel/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /home/manuel/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/analytics.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide-full.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide.config.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/jquery-1.7.2.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/bootstrap.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/modernizr.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/script.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highcharts.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/exporting.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:04:22 Error: [MissingControllerException] Controller class Funciones.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Funciones.jsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/funciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/css/estilos.css
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/css/pikaday.css
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/analytics.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide-full.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide.config.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/bootstrap.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/jquery-1.7.2.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highcharts.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/exporting.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/modernizr.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/script.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:06:45 Error: [MissingControllerException] Controller class Funciones.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Funciones.jsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/funciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/css/pikaday.css
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide.config.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide-full.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/analytics.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/bootstrap.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/script.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/jquery-1.7.2.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highcharts.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/exporting.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/modernizr.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:08:11 Error: [MissingControllerException] Controller class Funciones.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Funciones.jsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/funciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/analytics.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide.config.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/jquery-1.7.2.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide-full.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/bootstrap.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/modernizr.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/script.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highcharts.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/exporting.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class Funciones.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Funciones.jsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/funciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/js/unciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:36 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/outlines/drop-shadow.png
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:11:36 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/zoomout.cur
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide.config.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/jquery-1.7.2.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide-full.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/analytics.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/script.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/bootstrap.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/modernizr.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/exporting.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highcharts.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class Funciones.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Funciones.jsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/funciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/js/unciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/zoomout.cur
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:12:24 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/outlines/drop-shadow.png
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide-full.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/analytics.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/modernizr.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highslide.config.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/jquery-1.7.2.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/script.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/highcharts.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/exporting.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class Funciones.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Funciones.jsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/funciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/js/funciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class ProyectoFilesController could not be found.
+Exception Attributes: array (
+  'class' => 'ProyectoFilesController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/proyecto_files/bootstrap.min.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/outlines/drop-shadow.png
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:13:01 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/zoomout.cur
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:14:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/js/funciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:14:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/js/funciones.js
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:14:35 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/outlines/drop-shadow.png
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:14:35 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/zoomout.cur
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:15:33 Error: [MissingControllerException] Controller class LatidoCerdo.mp3Controller could not be found.
+Exception Attributes: array (
+  'class' => 'LatidoCerdo.mp3Controller',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/latido_cerdo.mp3
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:15:33 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/outlines/drop-shadow.png
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:15:33 Error: [MissingControllerException] Controller class HighslideController could not be found.
+Exception Attributes: array (
+  'class' => 'HighslideController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/highslide/graphics/zoomout.cur
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:16:43 Error: [MissingControllerException] Controller class LatidoCerdo.mp3Controller could not be found.
+Exception Attributes: array (
+  'class' => 'LatidoCerdo.mp3Controller',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/latido_cerdo.mp3
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:17:52 Error: [MissingControllerException] Controller class LatidoCerdo.mp3Controller could not be found.
+Exception Attributes: array (
+  'class' => 'LatidoCerdo.mp3Controller',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/latido_cerdo.mp3
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-12 12:17:52 Error: [MissingControllerException] Controller class LatidoCerdo.mp3Controller could not be found.
+Exception Attributes: array (
+  'class' => 'LatidoCerdo.mp3Controller',
+  'plugin' => NULL,
+)
+Request URL: /proyecto/latido_cerdo.mp3
+Stack Trace:
+#0 /home/manuel/www/proyecto/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
